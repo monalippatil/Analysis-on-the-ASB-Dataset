@@ -1,6 +1,18 @@
-Analysis (employing Python and Data Visualisation packages) on the ASB Dataset
+# Gathering Creative Insights about Australia by analysing Australian Bureau of Statistics (ASB) Census from 2011 until 2021.
 
-Kindly review the below for the detailed information. 
+## Objective
 
-	* Analysis report -> under report directory.
-	* Python Notebook -> under analysis directory.
+Analyse the evolution of Australia as a nation relating to features like families/person’s income, and migration (foreign born) from different countries from 2011 until 2021. Also, investigate if any trends highlighting the significance of the country and impacting how it has changed.
+
+## Techniques Employed
+
+- Exploratory Data Analysis with Python Programming Features
+
+- Data Visualisation
+
+
+## Kindly review the information from 
+
+- Detailed Analysis Python Notebook -> under analysis directory
+  
+- Analysis Report -> under report Directory

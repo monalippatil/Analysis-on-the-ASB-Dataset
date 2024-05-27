@@ -1,4 +1,4 @@
-# Gathering Creative Insights about Australia by Analysing Australian Bureau of Statistics (ASB) Census from 2011 until 2021.
+# Gathering Creative Insights about Australia by analysing Australian Bureau of Statistics (ASB) Census from 2011 until 2021.
 
 ## Objective
 

@@ -9,3 +9,10 @@ Analyse the evolution of Australia as a nation relating to features like familie
 - Exploratory Data Analysis with Python Programming Features
 
 - Data Visualisation
+
+
+## Kindly review the information from 
+
+- Detailed Analysis Python Notebook -> under analysis directory
+  
+- Analysis Report -> under report Directory
